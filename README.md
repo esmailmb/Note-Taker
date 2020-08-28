@@ -19,7 +19,7 @@ Navigate to the developer-profile-generator folder using the command prompt.
 Run `npm install` to install all dependencies. To use the application locally, run `node server.js` in your CLI, and then open `http://localhost:4100/notes` in your preferred browswer. 
 
 ## Preview:
-![Application Preview](Not-Taker.gif)
+See (Not-Taker.gif)
 
 
 ## Learning Points:
